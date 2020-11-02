@@ -4,7 +4,7 @@ In this repository you can find the Jupyter Notebook, which has the Python code 
 
 1. Clone the repository with `git clone git@github.com:AitoDotAI/junction-2020.git` 
 
-2. In the repo directory, create a directory `data` and subdirectory under it called `original`, upload the Kaggle dataset files to the `original` directory. 
+2. In the repo directory, create a directory `data` and subdirectory under it called `original`, download the Kaggle dataset files to the `original` directory. 
 
 3. Install Jupyter Notebook with `pip install jupyterlab`, you can then run the notebook with the command `jupyter notebook` (run it in the directory where you have the .ipynb notebook). The browser will open and you can now double click on the `restaurant_recomender.ipynb`, it will open the IDE.
 
